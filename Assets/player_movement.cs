@@ -118,6 +118,18 @@ public class player_movement : MonoBehaviour {
 
         }
 
+        if (Input.GetButtonUp("Jump"))
+        {
+
+            jumpCounter = 0;
+            isJumping = false;
+
+        }
+    }
+
+    void FixedUpdate()
+    {
+
         jumpCounter -= Time.deltaTime;
 
         if (jumpCounter <= 0)
@@ -128,15 +140,7 @@ public class player_movement : MonoBehaviour {
 
         }
 
-        if (Input.GetButtonUp("Jump"))
-        {
-
-            jumpCounter = 0;
-            isJumping = false;
-
-        }
-
-        if(isJumping == true)
+        if (isJumping == true)
         {
 
             rb.velocity = new Vector3(rb.velocity.x, rb.velocity.y + jumpAccel, 0);
