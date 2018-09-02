@@ -14,6 +14,10 @@ MonoBehaviour:
   m_Bool_keys:
   - pbGenerateUV2PerObject
   - pbUVMaterialPreview
+  - pbStripProBuilderOnBuild
+  - pbDisableAutoUV2Generation
+  - pbForceConvex
+  - pbMeshesAreAssets
   m_Int_keys:
   - pbDefaultEditLevel
   - pbDefaultSelectionMode
@@ -21,19 +25,24 @@ MonoBehaviour:
   - pbExtrudeMethod
   - pbHandleAlignment
   - pbDragSelectMode
+  - pbDefaultEntity
+  - pbDefaultCollider
+  - pbShadowCastingMode
   m_Float_keys:
   - pbExtrudeDistance
   - pbEditorScroll.x
   - pbEditorScroll.y
   m_String_keys: []
   m_Color_keys: []
-  m_Material_keys: []
-  m_Bool_values: 0000
-  m_Int_values: 000000000200000001000000010000000000000000000000
+  m_Material_keys:
+  - pbDefaultMaterial
+  m_Bool_values: 000001000000
+  m_Int_values: 000000000200000001000000010000000200000000000000000000000200000002000000
   m_Float_values:
-  - 2
+  - 1
   - 0
   - 0
   m_String_values: []
   m_Color_values: []
-  m_Material_values: []
+  m_Material_values:
+  - {fileID: 2100000, guid: 0f3fb9fe722fd6743be4d4329cc33450, type: 2}
