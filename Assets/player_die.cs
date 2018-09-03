@@ -59,6 +59,7 @@ public class player_die : MonoBehaviour {
                 var newGib = Instantiate<GameObject>(gib);
                 newGib.GetComponent<Rigidbody>().velocity = gameObject.GetComponent<Rigidbody>().velocity + new Vector3(Random.Range(-gibVelMod, gibVelMod),Random.Range(-gibVelMod,gibVelMod),0);
                 newGib.transform.position = transform.position + new Vector3(Random.Range(-.5f,.5f), 1 + Random.Range(-.5f, .5f), Random.Range(-.5f, .5f));
+                newGib.transform.eulerAngles = new Vector3(Random.Range(0, 360), Random.Range(0, 360), Random.Range(0, 360));
 
             }
 

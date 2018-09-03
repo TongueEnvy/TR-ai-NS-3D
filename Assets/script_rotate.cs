@@ -14,7 +14,6 @@ public class script_rotate : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        gameObject.transform.eulerAngles += rotSpeed;
-
+        gameObject.transform.Rotate(rotSpeed);
 	}
 }
