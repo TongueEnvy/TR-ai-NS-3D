@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: a19a3c4a1b77c1c4d96061b72229d18b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: BottomTeeth
+    100004: Collar
+    100006: Hat
+    100008: Head
+    100010: //RootNode
+    100012: Left_Hand
+    100014: RightHand
+    100016: TopTeeth
+    100018: BottomTeeth_001
+    100020: Armature
+    100022: Chest
+    100024: Head_0
+    100026: Jaw
+    100028: Left_Bird_Jnuckle
+    100030: Left_Calf
+    100032: Left_Foot
+    100034: Left_Hand_0
+    100036: Left_Hand_005
+    100038: Left_Hand_006
+    100040: Left_Hand_007
+    100042: Left_Hand_008
+    100044: Left_Hand_009
+    100046: Left_Hand_010
+    100048: Left_Hand_011
+    100050: Left_Hand_012
+    100052: Left_Hip
+    100054: Left_Index_Knuckle
+    100056: Left_Pinkie_Knuckle
+    100058: Left_Ring_Knuckle
+    100060: Left_Thigh
+    100062: Left_Thumb_Distal
+    100064: Left_Thumb_Medial
+    100066: Left_Thumb_Proximal
+    100068: Left_Toes
+    100070: Neck
+    100072: Right_Calf
+    100074: Right_Foot
+    100076: Right_Hip
+    100078: Right_Thigh
+    100080: Right_Toes
+    100082: Root
+    100084: Trunk
+    100086: Waist
+    100088: Left_Bird_Distal
+    100090: Left_Bird_Knuckle
+    100092: Left_Bird_Proximal
+    100094: Left_Index_Distal
+    100096: Left_Index_Proximal
+    100098: Left_Pinkie_Distal
+    100100: Left_Pinkie_Proximal
+    100102: Left_Ring_Distal
+    100104: Left_Ring_Proximal
+    100106: Right_Bird_Distal
+    100108: Right_Bird_Knuckle
+    100110: Right_Bird_Proximal
+    100112: Right_Hand
+    100114: Right_Index_Distal
+    100116: Right_Index_Knuckle
+    100118: Right_Index_Proximal
+    100120: Right_Pinkie_Distal
+    100122: Right_Pinkie_Knuckle
+    100124: Right_Pinkie_Proximal
+    100126: Right_Ring_Distal
+    100128: Right_Ring_Knuckle
+    100130: Right_Ring_Proximal
+    100132: Right_Thumb_Distal
+    100134: Right_Thumb_Medial
+    100136: Right_Thumb_Proximal
+    400000: Body
+    400002: BottomTeeth
+    400004: Collar
+    400006: Hat
+    400008: Head
+    400010: //RootNode
+    400012: Left_Hand
+    400014: RightHand
+    400016: TopTeeth
+    400018: BottomTeeth_001
+    400020: Armature
+    400022: Chest
+    400024: Head_0
+    400026: Jaw
+    400028: Left_Bird_Jnuckle
+    400030: Left_Calf
+    400032: Left_Foot
+    400034: Left_Hand_0
+    400036: Left_Hand_005
+    400038: Left_Hand_006
+    400040: Left_Hand_007
+    400042: Left_Hand_008
+    400044: Left_Hand_009
+    400046: Left_Hand_010
+    400048: Left_Hand_011
+    400050: Left_Hand_012
+    400052: Left_Hip
+    400054: Left_Index_Knuckle
+    400056: Left_Pinkie_Knuckle
+    400058: Left_Ring_Knuckle
+    400060: Left_Thigh
+    400062: Left_Thumb_Distal
+    400064: Left_Thumb_Medial
+    400066: Left_Thumb_Proximal
+    400068: Left_Toes
+    400070: Neck
+    400072: Right_Calf
+    400074: Right_Foot
+    400076: Right_Hip
+    400078: Right_Thigh
+    400080: Right_Toes
+    400082: Root
+    400084: Trunk
+    400086: Waist
+    400088: Left_Bird_Distal
+    400090: Left_Bird_Knuckle
+    400092: Left_Bird_Proximal
+    400094: Left_Index_Distal
+    400096: Left_Index_Proximal
+    400098: Left_Pinkie_Distal
+    400100: Left_Pinkie_Proximal
+    400102: Left_Ring_Distal
+    400104: Left_Ring_Proximal
+    400106: Right_Bird_Distal
+    400108: Right_Bird_Knuckle
+    400110: Right_Bird_Proximal
+    400112: Right_Hand
+    400114: Right_Index_Distal
+    400116: Right_Index_Knuckle
+    400118: Right_Index_Proximal
+    400120: Right_Pinkie_Distal
+    400122: Right_Pinkie_Knuckle
+    400124: Right_Pinkie_Proximal
+    400126: Right_Ring_Distal
+    400128: Right_Ring_Knuckle
+    400130: Right_Ring_Proximal
+    400132: Right_Thumb_Distal
+    400134: Right_Thumb_Medial
+    400136: Right_Thumb_Proximal
+    2100000: Material_001__japeTeethUVs
+    2100002: Material_001
+    2100004: unnamed
+    2100006: Material
+    2100008: Material__JapeHeadUVs
+    2100010: Material_002__japeHatUVs
+    2100012: Material_003__japeCollarUVs
+    2100014: Material_004__JapeBodyUVs
+    2100016: Material_005__JapeRightHandUVs
+    2100018: Material_006__japeLeftHandUVs
+    2300000: Body
+    2300002: BottomTeeth
+    2300004: Collar
+    2300006: Hat
+    2300008: Head
+    2300010: Left_Hand
+    2300012: RightHand
+    2300014: TopTeeth
+    2300016: BottomTeeth_001
+    3300000: Body
+    3300002: BottomTeeth
+    3300004: Collar
+    3300006: Hat
+    3300008: Head
+    3300010: Left_Hand
+    3300012: RightHand
+    3300014: TopTeeth
+    3300016: BottomTeeth_001
+    4300000: TopTeeth
+    4300002: RightHand
+    4300004: Left_Hand
+    4300006: Collar
+    4300008: Body
+    4300010: Hat
+    4300012: BottomTeeth
+    4300014: Head
+    4300016: BottomTeeth_001
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Body
+    13700002: BottomTeeth
+    13700004: BottomTeeth_001
+    13700006: Collar
+    13700008: Hat
+    13700010: Head
+    13700012: Left_Hand
+    13700014: RightHand
+    13700016: TopTeeth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__japeTeethUVs
+    second: {fileID: 2100000, guid: 57f2605eca882584f8521de859735d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__japeHatUVs
+    second: {fileID: 2100000, guid: caa61c87df9565e43aa42726f4b6599f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003__japeCollarUVs
+    second: {fileID: 2100000, guid: b939c454b523cf0419cedbd01ed4bf1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004__JapeBodyUVs
+    second: {fileID: 2100000, guid: 8ffdd48a448372544939d488ab731419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005__JapeRightHandUVs
+    second: {fileID: 2100000, guid: 578afb01a04ded249b315238fbb951d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006__japeLeftHandUVs
+    second: {fileID: 2100000, guid: 04603b67989dd574eb63c471a8442eb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__JapeHeadUVs
+    second: {fileID: 2100000, guid: e5d0e6ccf056ef945864f44e0fb63a60, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
