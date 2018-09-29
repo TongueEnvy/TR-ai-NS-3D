@@ -13,7 +13,10 @@ public class script_nextTower : MonoBehaviour {
     public float maxforwardSpeed;
     public float spreadSpeed;
     public float transitionTimer;
+    public float maxScaleFactor;
     float transitionCounter;
+
+    public List<int> possibleScenes;
 
     bool hasShattered;
 
@@ -38,17 +41,11 @@ public class script_nextTower : MonoBehaviour {
         if(transitionCounter <= 0)
         {
 
-            var toHumanity = Random.Range(0, 100);
-            if (toHumanity >= 75)
+            var nextScene = (int)Random.Range(0, possibleScenes.Count - 1);
+
             {
 
-                SceneManager.LoadScene(0);
-
-            }
-            else
-            {
-
-                SceneManager.LoadScene(1);
+                SceneManager.LoadScene(nextScene);
 
             }
 

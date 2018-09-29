@@ -88,8 +88,12 @@ public class player_die : MonoBehaviour {
 
             gameObject.GetComponent<BoxCollider>().enabled = false;
             gameObject.GetComponent<Rigidbody>().isKinematic = true;
-            gameObject.GetComponent<player_movement>().enabled = false;
-            
+            gameObject.GetComponent<player_horizontalMovement>().enabled = false;
+            gameObject.GetComponent<player_jump>().enabled = false;
+            gameObject.GetComponent<player_setGrounded>().enabled = false;
+            gameObject.GetComponent<player_setOnWall>().enabled = false;
+            gameObject.GetComponent<player_wallJump>().enabled = false;
+
         }
 
     }

@@ -8,10 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HumanityTest.unity
     guid: 31db3b4818d2ba64192334acd7afa3e1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TowerTest.unity
     guid: 99c65f35e30f24f468a2e9279c55dfae
+  - enabled: 1
+    path: Assets/Scenes/tutorialStage_jump.unity
+    guid: 0a6d08491b167124588d0915b7f386e7
   m_configObjects: {}
